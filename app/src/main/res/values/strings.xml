@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">TOGO</string>
+    <string name="app_name">EventApp</string>
+    <string name="title_activity_main">Карта</string>
+    <string name="search_bar_hint">Введите категорию или название события</string>
+    <string name="title_activity_create_event">Создание события</string>
+    <string name="profile">Профиль</string>
+    <string name="map">Карта</string>
+    <string name="my_events">Мои события</string>
+    <string name="settings">Настройки</string>
+    <string name="logout">Выйти</string>
+
+    <string-array name="category">
+        <item>Всё</item>
+        <item>Вечеринки</item>
+        <item>Кино</item>
+        <item>Игры</item>
+        <item>Путешествия</item>
+        <item>Прогулки</item>
+        <item>Спорт</item>
+        <item>Искусство</item>
+        <item>Музыка</item>
+    </string-array>
 </resources>
